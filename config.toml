@@ -1,5 +1,0 @@
-baseURL = "https://pedromll.tech"
-languageCode = "en-us"
-title = "Pedro Mangabeira"
-theme = "hugo-coder"
-publishDir = "docs"

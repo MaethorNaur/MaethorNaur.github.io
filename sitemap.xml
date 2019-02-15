@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pedromll.tech/posts/test/</loc>
+    <lastmod>2019-02-15T08:32:17+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pedromll.tech/about/</loc>
   </url>
   
@@ -13,6 +18,13 @@
   
   <url>
     <loc>https://pedromll.tech/</loc>
+    <lastmod>2019-02-15T08:32:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pedromll.tech/posts/</loc>
+    <lastmod>2019-02-15T08:32:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   

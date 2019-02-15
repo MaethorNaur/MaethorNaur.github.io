@@ -3,8 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pedromll.tech/article/blog_opening/</loc>
+    <lastmod>2019-02-15T10:06:46+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pedromll.tech/page/about/</loc>
     <lastmod>2019-02-15T10:02:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pedromll.tech/article/</loc>
+    <lastmod>2019-02-15T10:06:46+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -25,7 +36,7 @@
   
   <url>
     <loc>https://pedromll.tech/</loc>
-    <lastmod>2019-02-15T10:02:18+00:00</lastmod>
+    <lastmod>2019-02-15T10:06:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   

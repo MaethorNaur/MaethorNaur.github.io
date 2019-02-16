@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pedro Mangabeira</title>
-    <link>https://pedromll.tech/</link>
-    <description>Recent content on Pedro Mangabeira</description>
+    <title>Blogs on Pedro Mangabeira</title>
+    <link>https://pedromll.tech/blog/</link>
+    <description>Recent content in Blogs on Pedro Mangabeira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 16 Feb 2019 21:16:20 +0000</lastBuildDate>
     
-	<atom:link href="https://pedromll.tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pedromll.tech/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>Note: This article originally appeared in CodeRag.
 Gavin Belson’s name has long been synonymous with innovation—but beyond his work at Hooli, do we even know the man behind the rampant success? In a Code/Rag exclusive, Belson revealed to us 10 things about himself that aren’t common knowledge.
  He’s a nature fanatic! “It’s important to me that Hooli has an effective recycling program, and a personal passion of mine is donating to elephant sanctuaries.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://pedromll.tech/about/</link>
-      <pubDate>Sat, 16 Feb 2019 21:15:54 +0000</pubDate>
-      
-      <guid>https://pedromll.tech/about/</guid>
-      <description>Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.</description>
     </item>
     
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pedro Mangabeira&#39;s blog</title>
-    <link>/</link>
+    <link>https://maethornaur.github.io/</link>
     <description>Recent content on Pedro Mangabeira&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 24 May 2019 16:20:25 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maethornaur.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>/posts/2019/05/hello/</link>
+      <link>https://maethornaur.github.io/posts/2019/05/hello/</link>
       <pubDate>Fri, 24 May 2019 16:20:25 +0100</pubDate>
       
-      <guid>/posts/2019/05/hello/</guid>
+      <guid>https://maethornaur.github.io/posts/2019/05/hello/</guid>
       <description>Hello there and welcome!</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://maethornaur.github.io/about/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://maethornaur.github.io/about/</guid>
       <description>Hi there I&amp;rsquo;m Pedro, welcome to my blog !
 A little about me:
 I received my Bachelors of Science degree in computer science from Pierre and Marie Curies University (UPMC), Paris. I currently hold the position of Senior Software Engineer at TOP 5 LTD.

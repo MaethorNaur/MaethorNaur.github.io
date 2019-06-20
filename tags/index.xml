@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pedro Mangabeira&#39;s blog</title>
-    <link>/tags/</link>
+    <link>https://maethornaur.github.io/tags/</link>
     <description>Recent content in Tags on Pedro Mangabeira&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 24 May 2019 16:20:25 +0100</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maethornaur.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Personal</title>
-      <link>/tags/personal/</link>
+      <link>https://maethornaur.github.io/tags/personal/</link>
       <pubDate>Fri, 24 May 2019 16:20:25 +0100</pubDate>
       
-      <guid>/tags/personal/</guid>
+      <guid>https://maethornaur.github.io/tags/personal/</guid>
       <description></description>
     </item>
     
